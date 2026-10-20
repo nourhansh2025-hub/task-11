@@ -1,0 +1,148 @@
+*{
+    box-sizing: border-box;
+}
+/* section one */
+.header-section{
+    background-color: rgb(62, 62, 218);
+    color: white;
+    width: 80%;
+    border-radius: 30px;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+}
+.header-section a{
+    padding: 10px;
+    color: white;
+    border-radius: 15px;
+    background-color: rgb(217, 217, 221);
+    margin-top: 20px;
+    display: inline-block;
+}
+
+/* section two */
+.About-me{
+    background-color: aliceblue;
+width: 80%;
+margin: auto;
+border-radius: 30px;
+
+}
+.About-me h2{
+    color: darkblue;
+    padding: 20px;
+}
+.About-me img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+   float: left;
+   margin-left:100px ;
+}
+.clear{
+    clear: both;
+}
+.right-float{
+    float: right;
+    margin-right: 70px;
+    padding: 20px;
+}
+.right-float span{
+    color: blue;
+}
+.right-float button{
+    padding: 15px;
+    color: white;
+    background-color: blue;
+    border-radius: 15px;
+}
+
+
+/* 
+section my skils */
+.My-Skills{
+background-color: azure;
+    width: 80%;
+    border-radius: 30px;
+    padding-inline: 20px;
+    margin: auto;
+    margin-top: 20px;
+}
+.My-Skills h2{
+    color:darkblue;
+    padding: 15px;
+}
+ .skils{
+width: 20%;
+background-color: rgb(216, 216, 224);
+float: right;
+text-align: center;
+
+margin-inline: 20px;
+
+padding: 20px;
+}
+/* section experence */
+.Experience{
+    background-color: azure;
+  
+        width: 80%;
+        border-radius: 30px;
+        padding-inline: 20px;
+        margin: auto;
+        margin-top: 20px;
+}
+.float-left img{
+    width: 100px;
+    float: left;
+    margin-right: 40px;
+}
+.top-exper{
+    border-left: 5px solid blue;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.span-one{
+    color: blue;
+}
+/*  Contact-Me*/
+
+.Contact-Me{
+    background-color:darkblue;
+    width: 80%;
+        border-radius: 30px;
+        padding: 20px;
+        margin: auto;
+        margin-top: 20px;
+}
+.Contact-Me {
+    color: white;
+}
+.Contact-Me a{
+    padding: 10px;
+        color: white;
+        border-radius: 15px;
+        background-color: rgb(161, 161, 201);
+}
+/* footer */
+.footer{
+    background-color:black;
+        width: 80%;
+        border-radius: 30px;
+        padding: 20px;
+        margin: auto;
+        margin-top: 20px;
+}
+.footer p{
+    color: white;
+    text-align: center;
+}
+.footer span{
+    color: blue;
+}
+
+
+
+
+
+
